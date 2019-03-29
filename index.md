@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Esto es un blog muy vacio
 
-I'm glad you are here. I plan to talk about ...
+Encantado de verte, vuelve pronto
